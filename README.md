@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Henrique
 - 👀 I’m interested in tecnolgia e Ciência
-- 🌱 I’m currently learning engenharia civil entre varias outras coisas
+- 🌱 I’m currently learning engenharia civil, e análise de sistemas
 - 💞️ I’m looking to am aprimorar
 - 📫 How to reach me instagram tiktok facebook
 
