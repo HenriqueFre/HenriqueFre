@@ -27,9 +27,9 @@ Habilidades técnicas
 - Especialista em suporte remoto e presencial 
 
 Educação
-- Faculdade Multivix: 2020 - 2026 Bacharelado em Engenharia Civil | Graduação Analise de Sistemas
+- Faculdade Multivix: 2020 - 2026 Bacharelado Engenharia Civil | Graduação Analise de Sistemas
 - Ifes Instituto Federal: 2016 - 2017 Curso Técnico Tecnologia da Informação
-- Centro Cultural Araça: 2008 - 2020 Informatica Basica ao Avançado | montagem e manutençao de Computadores | Audiovisual. 
+- Centro Cultural Araça: 2008 - 2020 Informatica Basica ao Avançado | Montagem e Manutençao de Computadores | Audiovisual. 
 <!---
 HenriqueFre/HenriqueFre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
