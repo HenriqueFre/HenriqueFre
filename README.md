@@ -1,35 +1,37 @@
-- 👋 Hi, I’m @Henrique Freitas
-- 👀 Estou interessado em desenvolvimento em JavaScript com TypeScript, Html com Css, React.js, Node.js, SQL, Python com Django, C/C++, Inteligencia artificial e Cibersegurança
-- 🌱 I’m currently learning Engenharia Civil, e sou Técnico de Ti
-- 💞️ I’m looking to am aprimorar fazendo Analiste de sistema e Ciência Da Computação entre varios outros cursos pelo mercado. 
-- 📫 How to reach me
--  📱+55 27 99798-5608
--  📄https://www.linkedin.com/in/henrique-freitas-880023255/
--  📧henriquefre20@gmail.com
+  👋 Hello, I'm @Henrique Freitas
+- 👀 I'm interested in development in JavaScript with TypeScript, Html with Css, React.js, Node.js, SQL, Python with Django, C/C++, Artificial Intelligence and Cybersecurity
+- 🌱 I'm currently studying Civil Engineering, and I'm an IT Technician
+- 💞️ I'm looking to improve by taking System Analyst and Computer Science among several other courses on the market.
 
-Você pode ver mais detalhes sobre meu histórico e experiências profissionais no Linkedin
+📫 How to contact me
+- 📱+55 27 99798-5608
+- 📄 https://www.linkedin.com/in/henrique-freitas-880023255/
+- 📧 henriquefre20@gmail.com
+  
+You can see more details about my background and professional experiences on Linkedin
 
-Sobre mim
+About me
 
-Estudo Engenharia Civil e trabalho como Técnico de Ti Pleno altamente qualificado e focado em da suporte remoto e presencial. Sempre me aprimorando e observando o mercado de tecnologia tenho conhecimentos em JavaScript junto com TypeScript, Html/Css, React.js, Node.js, Python entre outras. Sou apaixonado por descobrir novas tecnologias, estou aberto ao debate de novas soluções, e sempre focado.
+I study Civil Engineering and work as a highly qualified IT Technician focused on remote and in-person support. Always improving myself and observing the technology market, I have knowledge in JavaScript along with TypeScript, Html/Css, React.js, Node.js, Python, among others. I am passionate about discovering new technologies, I am open to debating new solutions, and always focused.
 
+- +4 years of market experience
+- +16 years studying technology
+- JavaScript, TypeScript, React.js, Node.js, Python, Django, Cybersecurity, Artificial Intelligence.
+- I love IT and always seeking knowledge.
+  
+Technical abilities
 
-- +4 anos de experiência de mercado
-- +16 anos estudando sobre tecnologia 
-- JavaScript, TypeScript, React.js, Node.js, Python, Django,CiberSegurança, Inteligencia Artificial.
-- Amo Informática e sempre Buscando conhecimento. 
+- Languages ​​and Frameworks: JavaScript, TypeScript, Node.js, React, Angular, Next.js, Django, C/C++, Python;
+- OS and platforms: Windows, Linux, Github;
+- DBMSs: SQL, MySQL;
+- Remote and in-person support specialist
+  
+Education
 
-Habilidades técnicas
-
-- Linguagens e Frameworks : JavaScript, TypeScript, Node.js, React, Angular, Next.js, Django, C/C++, Python;
-- SO e plataformas : Windows, Linux, Github;
-- SGBDs : SQL, MySQL; 
-- Especialista em suporte remoto e presencial 
-
-Educação
-- Faculdade Multivix: 2020 - 2026 Bacharelado Engenharia Civil | Graduação Analise de Sistemas
-- Ifes Instituto Federal: 2016 - 2017 Curso Técnico Tecnologia da Informação
-- Centro Cultural Araça: 2008 - 2020 Informatica Basica ao Avançado | Montagem e Manutençao de Computadores | Audiovisual. 
+- Multivix College: 2020 - 2026 Bachelor's Degree Civil Engineering | Systems Analysis Degree
+- Ifes Federal Institute: 2016 - 2017 Technical Course Information Technology
+- Araça Cultural Center: 2008 - 2020 Basic to Advanced IT | Computer Assembly and Maintenance | Audio-visual.
+  
 <!---
 HenriqueFre/HenriqueFre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
