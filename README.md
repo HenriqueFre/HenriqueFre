@@ -22,7 +22,7 @@ Estudo Engenharia Civil e trabalho como Técnico de Ti Pleno altamente qualifica
 Habilidades técnicas
 
 - Linguagens e Frameworks : JavaScript, TypeScript, Node.js, React, Angular, Next.js, Django, C/C++, Python;
-- SO e plataformas : Windows, Linux, Kubernetes, Github;
+- SO e plataformas : Windows, Linux, Github;
 - SGBDs : SQL, MySQL; 
 - Especialista em suporte remoto e presencial 
 
