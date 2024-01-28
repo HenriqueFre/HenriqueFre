@@ -12,7 +12,7 @@ You can see more details about my background and professional experiences on Lin
 
 About me
 
-I study Civil Engineering and work as a highly qualified IT Technician focused on remote and in-person support. Always improving myself and observing the technology market, I have knowledge in JavaScript along with TypeScript, Html/Css, React.js, Node.js, Python, among others. I am passionate about discovering new technologies, I am open to debating new solutions, and always focused.
+I study Civil Engineering and Systems Analysis and Development and work as a highly qualified IT Technician focused on remote and in-person support. Always improving myself and observing the technology market, I have knowledge in JavaScript along with TypeScript, Html/Css, React.js, Node.js, Python, among others. I am passionate about discovering new technologies, I am open to debating new solutions, and always focused.
 
 - +4 years of market experience
 - +16 years studying technology
