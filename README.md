@@ -27,7 +27,7 @@ Technical abilities
 - Remote and in-person support specialist
   
 Education
-- Multivix College: 2024 - 2026 Systems Analysis and Development Degree
+- Multivix College: 2024 - 2026 Systems Analysis and Development
 - Multivix College: 2020 - 2026 Bachelor's Degree Civil Engineering
 - Ifes Federal Institute: 2016 - 2017 Technical Course Information Technology
 - Araça Cultural Center: 2008 - 2020 Basic to Advanced IT | Computer Assembly and Maintenance | Audio-visual.
