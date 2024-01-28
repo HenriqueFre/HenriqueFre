@@ -1,7 +1,7 @@
   👋 Hello, I'm @Henrique Freitas
 - 👀 I'm interested in development in JavaScript with TypeScript, Html with Css, React.js, Node.js, SQL, Python with Django, C/C++, Artificial Intelligence and Cybersecurity
 - 🌱 I'm currently studying Civil Engineering, and I'm an IT Technician
-- 💞️ I'm looking to improve by taking System Analyst and Computer Science among several other courses on the market.
+- 💞️ I'm looking to improve by taking Computer Science among several other courses on the market.
 
 📫 How to contact me
 - 📱+55 27 99798-5608
