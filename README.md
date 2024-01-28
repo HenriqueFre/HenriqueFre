@@ -24,7 +24,7 @@ Technical abilities
 - Languages ​​and Frameworks: JavaScript, TypeScript, Node.js, React, Angular, Next.js, Django, C/C++, Python;
 - OS and platforms: Windows, Linux, Github;
 - DBMSs: SQL, MySQL;
-- Remote and in-person support specialist
+- Remote and in-person Support Specialist
   
 Education
 - Multivix College: 2024 - 2026 Systems Analysis and Development
