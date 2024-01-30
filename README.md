@@ -20,7 +20,6 @@ I study Civil Engineering and Systems Analysis and Development and work as a hig
 
 - +4 years of market experience
 - +16 years studying technology
-- JavaScript, TypeScript, React.js, Node.js, Python, Django, Cybersecurity, Artificial Intelligence.
 - I love IT and always seeking knowledge.
   
 Technical abilities
