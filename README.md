@@ -49,7 +49,7 @@ Technical abilities
 -  <!-- SQL --> <img src="https://img.shields.io/badge/%20SQL%20Server-lightblue?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=-blue">
 - Remote and in-person Support Specialist
 
-- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=henriquefre&hide=Html&theme=tokyonight)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=henriquefre&hide=Html&theme=tokyonight)
   
 Education
 - Multivix College: 2024 - 2026 Systems Analysis and Development
