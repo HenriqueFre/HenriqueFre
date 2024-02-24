@@ -43,9 +43,10 @@ Technical abilities
   -  <!-- Github --> <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=whinter">
   
 - DBMSs:
--  <!-- MYSQL --> <img src="https://img.shields.io/badge/%20MYSQL%20Server-lightblue?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=-BLUE">
+-  <!-- MYSQL --> <img src="https://img.shields.io/badge/%20MYSQL%20Server-orange?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=-blue2">
 -  <!-- SQL --> <img src="https://img.shields.io/badge/%20SQL%20Server-lightblue?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=-blue">
--  <!-- PostgreSQL --> <img src="https://img.shields.io/badge/%20PostgreSQL%20Server-lightblue?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=-blue">
+-  <!-- PostgreSQL --> <img src="https://img.shields.io/badge/%20PostgreSQL%20-blue?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=-blue">
+-  <!-- MongoDB --> <img src="https://img.shields.io/badge/%20MongoDB%20-green2?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=-green">
 - Remote and in-person Support Specialist
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=henriquefre&hide=Html&theme=tokyonight)
