@@ -45,6 +45,7 @@ Technical abilities
 - DBMSs:
 -  <!-- MYSQL --> <img src="https://img.shields.io/badge/%20MYSQL%20Server-lightblue?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=-BLUE">
 -  <!-- SQL --> <img src="https://img.shields.io/badge/%20SQL%20Server-lightblue?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=-blue">
+-  <!-- PostgreSQL --> <img src="https://img.shields.io/badge/%20PostgreSQL%20Server-lightblue?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=-blue">
 - Remote and in-person Support Specialist
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=henriquefre&hide=Html&theme=tokyonight)
