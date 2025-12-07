@@ -51,6 +51,7 @@ Technical abilities
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=henriquefre&hide=Html&theme=tokyonight)
   
 Education
+- Multivix College: 2025 - 2026 Postgraduate Program in Network Management and Security
 - Multivix College: 2025 - 2026 Postgraduate Information Technology Artificial Intelligence and Machine Learning
 - Multivix College: 2024 - 2026 Systems Analysis and Development
 - Multivix College: 2020 - 2026 Bachelor's Degree Civil Engineering
