@@ -18,7 +18,7 @@ About me
 
 I study Civil Engineering and Systems Analysis and Development and work as a highly qualified IT Technician focused on remote and in-person support. Always improving myself and observing the technology market, I have knowledge in JavaScript along with TypeScript, Html/Css, React.js, Node.js, Python, among others. I am passionate about discovering new technologies, I am open to debating new solutions, and always focused.
 
-- +16 years studying technology
+- +18 years studying technology
 - I love IT and always seeking knowledge.
   
 Technical abilities
@@ -53,7 +53,7 @@ Technical abilities
 Education
 - Multivix College: 2025 - 2026 Postgraduate Program in Network Management and Security
 - Multivix College: 2025 - 2026 Postgraduate Information Technology Artificial Intelligence and Machine Learning
-- Multivix College: 2024 - 2026 Systems Analysis and Development
+- Multivix College: 2024 - 2025 Systems Analysis and Development
 - Multivix College: 2020 - 2026 Bachelor's Degree Civil Engineering
 - Ifes Federal Institute: 2016 - 2017 Technical Course Information Technology
 - Araça Cultural Center: 2008 - 2020 Basic to Advanced IT | Computer Assembly and Maintenance | Audio-visual.
