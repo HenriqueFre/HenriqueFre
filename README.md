@@ -48,8 +48,8 @@ Technical abilities
 -  <!-- MongoDB --> <img src="https://img.shields.io/badge/%20MongoDB%20-green2?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=-green">
 - Remote and in-person Support Specialist
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=henriquefre&hide=Html&theme=tokyonight)
-  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=henriquefre&hide=Jupyter%20Notebook&theme=tokyonight)
+
 Education
 - Multivix College: 2025 - 2026 Postgraduate Program in Network Management and Security
 - Multivix College: 2025 - 2026 Postgraduate Information Technology Artificial Intelligence and Machine Learning
