@@ -80,7 +80,7 @@ Currently, I am expanding my horizons by bridging the analytical mindset of **Ci
   <a href="https://github.com/HenriqueFre" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/henrique-freitas-880023255/" target="_blank">
+  <a href="https://www.linkedin.com/in/henrique-teixeira-de-freitas-880023255/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/henrique_freitas_2.5/" target="_blank">
